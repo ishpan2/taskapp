@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "212097708292",
+    "firebase_url": "https://task-app-629da.firebaseio.com",
+    "project_id": "task-app-629da",
+    "storage_bucket": "task-app-629da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212097708292:android:1162ad4134f07fc5",
+        "android_client_info": {
+          "package_name": "com.example.alec.taskingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212097708292-nqm0t34741ik0033n5fe2utc9cl5ek8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alec.taskingapp",
+            "certificate_hash": "4b662119edb8f6cd4fbfe0921862e1b5c3740297"
+          }
+        },
+        {
+          "client_id": "212097708292-sm4ripe26nrv26r9qhch4rvopetir9f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjJhlLJbNrd6MCniA7haA7JPoHcyMEB1Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212097708292-sm4ripe26nrv26r9qhch4rvopetir9f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
